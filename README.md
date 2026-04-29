@@ -1,1 +1,0 @@
-# Tanzu_Workshop-Build_and_Deploy_AI_Apps_on_Tanzu
