@@ -19,12 +19,9 @@ This workshop is designed to give developers hands-on experience with Tanzu Plat
 
 ## Optional Stretch Goals
 
-If time allows, participants may also:
+1.  Review Tanzu app onboarding process
+2.  Demo of the Tanzu App Assessment and modernization tools
 
-1. Inspect application logs with `cf logs`.
-2. Review bound service credentials with `cf env`.
-3. Scale the application horizontally with the CF CLI.
-4. Explore how the same workflow supports future CI/CD, blue-green deployments, or additional platform-managed services.
 
 ## Pre-Requisites
 
