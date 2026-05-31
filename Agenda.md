@@ -14,8 +14,7 @@ This workshop is designed to give developers hands-on experience with Tanzu Plat
 6. **Add an Enterprise LLM Service:** Create an AI Services instance, from the Marketplace, bind it to the application, restart the app, and test AI-powered chat without handling API keys or model endpoint configuration manually.
 7. **Implement Document Q&A with RAG:** Create and bind an embeddings model and a PostgreSQL vector database, upload a PDF, and ask questions that are answered using document-specific context.
 8. **Extend the Application with MCP Tools:** Demonstrate the limits of a standalone LLM, bind the application to an MCP server, and show how tool access enables real-time or external system interactions.
-9. **Discuss A2A Agents and AI Integration Patterns:** Review when to use MCP tools, when to use Agent2Agent interactions, and how Tanzu Platform makes these capabilities composable for application teams.
-10. **Architecture Recap and Q&A:** Review the final application architecture, connect the hands-on work back to enterprise delivery patterns, and discuss next steps for building AI-enabled applications on Tanzu Platform.
+9. **Architecture Recap and Q&A:** Review the final application architecture, connect the hands-on work back to enterprise delivery patterns, and discuss next steps for building AI-enabled applications on Tanzu Platform.
 
 ## Optional Stretch Goals
 
